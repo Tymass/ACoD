@@ -1,2 +1,2 @@
 # ACoD
-Automatic categorization of documents using RNN
+Automatic categorization of documents with regard to the criterion of teamtic using recurrent neural networks
