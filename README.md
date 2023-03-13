@@ -14,7 +14,7 @@ The program achieves an accuracy of about 87% on the validation set.
 
 ![image](https://user-images.githubusercontent.com/83314524/224814682-bb81528b-93e2-4ab2-867b-5972c8836edb.png)
 
-It allows you to perform single predictions in the console of the MATLAB environment, using the command :
+It allows you to export model to *onnx* format and to perform single predictions in the console of the MATLAB environment, using the command :
 
 *new_doc = tokenizedDocument(new_doc);new_doc = lower(new_doc);new_doc = erasePunctuation(new_doc);X_new = doc2sequence(enc,new_doc,'Length',sequence_length);new_labels = classify(CNN,X_new)*
 
