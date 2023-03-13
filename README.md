@@ -10,7 +10,7 @@ This is a simple program written in matlab language using conv1D to classify tex
 - Firearms
 - Baseball
 
-The program achieves an accuracy of about 87% on the validation set.
+The network was trained on a subset of dataset *20newsgroups* and achieves an accuracy of about 87% on the validation set.
 
 ![image](https://user-images.githubusercontent.com/83314524/224814682-bb81528b-93e2-4ab2-867b-5972c8836edb.png)
 
